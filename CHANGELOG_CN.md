@@ -19,5 +19,5 @@
 - DCE Protocol 2.0 设计文档
 - 开源路线图
 
-[未发布]: https://github.com/Blicae8917/8917-organization-mastery/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Blicae8917/8917-organization-mastery/releases/tag/v0.1.0
+[未发布]: https://github.com/Blicae/8917-organization-mastery/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/Blicae/8917-organization-mastery/releases/tag/v0.1.0

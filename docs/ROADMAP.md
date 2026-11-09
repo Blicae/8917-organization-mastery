@@ -16,7 +16,7 @@
 
 ### 阶段一：组织治理与方法论主仓（现在）
 
-**仓库**: `Blicae8917/8917-organization-mastery`
+**仓库**: `Blicae/8917-organization-mastery`
 
 **内容**:
 - 多 Agent 协作理论
@@ -34,7 +34,7 @@
 
 ### 阶段二：Skills 能力资产仓（验证后）
 
-**仓库**: `Blicae8917/8917-skills`
+**仓库**: `Blicae/8917-skills`
 
 **内容**:
 - DCE 的 skill 化执行版本

@@ -26,7 +26,7 @@ Thank you for contributing to 8917's organization governance and methodology rep
 ## Development Setup
 
 ```bash
-git clone git@github.com:Blicae8917/8917-organization-mastery.git
+git clone git@github.com:Blicae/8917-organization-mastery.git
 cd 8917-organization-mastery
 # No build step required - this is a documentation-first repository
 ```

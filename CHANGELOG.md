@@ -21,5 +21,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - DCE Protocol 2.0 design document
 - Open source roadmap
 
-[Unreleased]: https://github.com/Blicae8917/8917-organization-mastery/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/Blicae8917/8917-organization-mastery/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Blicae/8917-organization-mastery/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/Blicae/8917-organization-mastery/releases/tag/v0.1.0

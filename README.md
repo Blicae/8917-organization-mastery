@@ -1,7 +1,7 @@
 # 8917 Organization Mastery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/GitHub-8917--organization--mastery-blue.svg)](https://github.com/Blicae8917/8917-organization-mastery)
+[![GitHub](https://img.shields.io/badge/GitHub-8917--organization--mastery-blue.svg)](https://github.com/Blicae/8917-organization-mastery)
 
 > **An industrial-grade, open-source framework for AI-native organization management.**
 > 
@@ -183,7 +183,7 @@ L3: 知识层      → 经验教训、GEP 经验胶囊
 ### For Humans
 
 ```bash
-git clone https://github.com/Blicae8917/8917-organization-mastery.git
+git clone https://github.com/Blicae/8917-organization-mastery.git
 cd 8917-organization-mastery
 
 # Read in order:
